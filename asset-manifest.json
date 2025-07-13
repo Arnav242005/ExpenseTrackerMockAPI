@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/expense-tracker/static/css/main.2f163541.css",
-    "main.js": "/expense-tracker/static/js/main.56f89b1c.js",
-    "index.html": "/expense-tracker/index.html",
-    "main.2f163541.css.map": "/expense-tracker/static/css/main.2f163541.css.map",
-    "main.56f89b1c.js.map": "/expense-tracker/static/js/main.56f89b1c.js.map"
+    "main.css": "/ExpenseTrackerMockAPI/static/css/main.2f163541.css",
+    "main.js": "/ExpenseTrackerMockAPI/static/js/main.56f89b1c.js",
+    "index.html": "/ExpenseTrackerMockAPI/index.html",
+    "main.2f163541.css.map": "/ExpenseTrackerMockAPI/static/css/main.2f163541.css.map",
+    "main.56f89b1c.js.map": "/ExpenseTrackerMockAPI/static/js/main.56f89b1c.js.map"
   },
   "entrypoints": [
     "static/css/main.2f163541.css",
